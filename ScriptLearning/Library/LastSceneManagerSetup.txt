@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scene/Question2.unity
+- path: Assets/Scene/Q2SecondsYear.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

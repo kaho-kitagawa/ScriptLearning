@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Question1 : MonoBehaviour
+public class EvenJudge : MonoBehaviour
 {
     public int Number;
     void Start()
