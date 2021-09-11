@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Question2 : MonoBehaviour
+public class LeapYearJudge : MonoBehaviour
 {
     public int Year;
     void Start()
